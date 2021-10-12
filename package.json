@@ -1,6 +1,6 @@
 {
   "name": "@compose-generator/go-npm",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "Distribute and install Go binaries via NPM",
   "main": "index.js",
   "bin": {
